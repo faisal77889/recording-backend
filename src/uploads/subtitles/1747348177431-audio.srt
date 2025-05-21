@@ -1,8 +1,0 @@
-1
-00:00:00,000 --> 00:00:08,340
-hi this is a video which will share how to transcript the data and how to use
-
-2
-00:00:08,340 --> 00:00:14,120
-the data and how to use room and how to do all the stuff
-
