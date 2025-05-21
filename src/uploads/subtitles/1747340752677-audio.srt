@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:11,000
+Hey there, this is a quick and silly video to allow you to experiment a little bit with the process of transcription on YouTube.
+
+2
+00:00:11,000 --> 00:00:24,000
+All I'm looking for you to do here is to use the YouTube tool to transcribe this message and then click sync and set the timing so you can get a quick idea about how the whole process works.
+
+3
+00:00:24,000 --> 00:00:28,000
+Well, this wraps up the video. Good luck and I will talk to you about it soon.
+

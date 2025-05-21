@@ -1,0 +1,12 @@
+1
+00:00:00,960 --> 00:00:06,640
+hi there this is a video just wanted to tell you and want to check you whether
+
+2
+00:00:06,640 --> 00:00:10,400
+this app is running fine or not now i am putting the mic
+
+3
+00:00:13,280 --> 00:00:17,440
+putting the mic on and let's see whether it goes fine or not
+

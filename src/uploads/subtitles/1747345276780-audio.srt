@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:08,600
+hello everyone this is a loom like screen recorder which will check whether the video
+
+2
+00:00:08,600 --> 00:00:15,640
+transcripts or not it will also add subtitles to it and let us see what happens
+
