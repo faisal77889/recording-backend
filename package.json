@@ -1,9 +1,9 @@
 {
   "name": "loom-backend",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "start": "node src/server.js"
+    "start": "node src/app.js"
   },
   "keywords": [],
   "author": "",

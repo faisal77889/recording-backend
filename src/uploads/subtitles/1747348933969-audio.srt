@@ -1,0 +1,8 @@
+1
+00:00:00,720 --> 00:00:07,040
+hello this is just a video to test how this lumelike screen recorder is working
+
+2
+00:00:07,040 --> 00:00:14,000
+and i'm also now checking system audio
+
